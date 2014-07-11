@@ -1,0 +1,5 @@
+[Plugin]
+Module=vala_ext
+Loader=C
+Name=Vala Says Hello
+Description=Inserts a box containing "Vala Says Hello" in every windows.
